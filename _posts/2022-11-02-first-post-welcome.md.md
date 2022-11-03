@@ -4,7 +4,8 @@ I don't know where this would take me. I started this blog because I use WhatsAp
 
 I am looking forward to where the journey takes me.
 
-Similarly, I think this will be good for me. Because I do feel lonely a lot, and I struggle with being alone. This is surprising because I always wanted to be left alone while I grew up. But perhaps, you could say, things and times change. I came to college and discovered that I struggle with anxiety (including physical symptoms like chest and stomach pain) and dread being alone.
+Similarly, I think this will be good for me. Because I do feel lonely a lot, and I struggle with being alone. This is surprising because I always wanted to be left alone while I grew up. But perhaps, you could say, things and times change. I came to college and discovered that I struggle with anxiety (including physical symptoms like chest and stomach pain) and dread being alone. 
+So part of my current challenges in life is attacking that fear, and conquering all the anxiety.
 
 So, in those precious and quite lonely hours, I could gain insights and share them on this blog.
 
@@ -13,6 +14,7 @@ Other things I intend to do are:
 - master computer science concepts
 - master mathematical concepts
 - read a lot of books and engage with diverse ideas
+- take on meaningful challenges and enjoy this beautiful journey of life
 
 I would share my thoughts and insights as I walk that journey.
 
