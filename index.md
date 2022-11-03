@@ -1,5 +1,7 @@
-Here you can say lots of fun things about your site.
+My name is Mubarak Idoko. I go by *mubbie*.
 
-Maybe say a some things about yourself.
+I am a Computer Engineering student, attempting to build interest technologies before I'm gone from here. 
 
-Or maybe what you plan to blog about.
+Here I share some of my thoughts, ideas, and others. 
+
+You are welcome.
