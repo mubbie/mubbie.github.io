@@ -28,7 +28,7 @@ To model this effect, I took inspiration from the work done by researchers and p
   <img src="../img/2024-07-28-traffic-jam-simulation.jpeg" alt="Phantom Traffic Jam Simulation" width="500" height="500">
 </p>
 
-!["Phantom Traffic Jam Simulation"](../img/2024-07-28-phantom-traffic-jam-sim.gif)
+!["Phantom Traffic Jam Simulation"](../img/2024-07-28-phantom-traffic-jam-sim.gif){:data-gifffer="/img/createblog/create_blog_edit_config.gif"}
 
 
 You can also find other great traffic simulators [here](https://www.traffic-simulation.de/) or see how traffic flows through different types of junctions [this video](https://www.youtube.com/watch?v=yITr127KZtQ).
