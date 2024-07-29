@@ -8,7 +8,7 @@
   <em> Image Source: <a href="https://xkcd.com/">XKCD</a> </em>
 </p>
 
-_[Accompanying Spotify Playlist (because "Traffic Jams")](https://open.spotify.com/playlist/4xrpRKZEZjlLW6ULkZcM7l?si=i5iyww4dTLO_jr2ols5XkQ&pi=u--2OggpItT1Wz)
+_[Accompanying Spotify Playlist (because "Traffic Jams")](https://open.spotify.com/playlist/4xrpRKZEZjlLW6ULkZcM7l?si=i5iyww4dTLO_jr2ols5XkQ&pi=u--2OggpItT1Wz)_
 
 "Why, why? But why is this happening?" This was my exact thought when I landed at the Seattle airport on a seemingly ordinary Wednesday afternoon. My maps app lit up with bright red and yellow lines, showing the major highways into the city—I-5, I-190, SR 520—choked with traffic. I wasn't thrilled, to say the least. I knew I could take alternate routes like Highway 99 or 509, but that didn't quell my burning curiosity. It also didn't help that on my flight over; I read a Komo News report about how INRIX, the location and traffic data analytics company, found that the average Seattle driver lost 58 hours in traffic jams in 2023, making the city home to the 27th-worst traffic in the world (you can read about the findings and methods [here](https://komonews.com/news/local/seattle-traffic-inrix-global-scorecard-report-washington-king-county-commute-rush-hour-world-united-states-ranking-world-patterns-driving-gas-cost-work-metro-bus-train-transit)). So why was there so much traffic? It couldn't be a car crash; what were the odds of massive pile-ups on three highways on a sunny Wednesday afternoon? Road work didn't seem likely either, as that typically happens at night or on weekends. And it wasn't rush hour. So, what was causing the gridlock? I wanted to find out.
 
