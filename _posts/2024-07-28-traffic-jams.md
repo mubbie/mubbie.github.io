@@ -25,11 +25,8 @@ Typically, this effect is not observed on roads where the density of cars is low
 To model this effect, I took inspiration from the work done by researchers and people who have studied traffic, and I built a phantom traffic simulator to accompany the blog post. You can find it in this [Github Repository](https://github.com/mubbie/phantom-traffic-jam-simulation). You can fork the repo and play around with the simulator, tweaking it, perhaps to see how things change when you increase the number of vehicles, modify how the speed changes, etc. I have tried to keep it lightweight, but if you can improve it and make it more robust, I would love to see your work. :)
 
 <p align="center">
-  <img src="../img/2024-07-28-traffic-jam-simulation.jpeg" alt="Phantom Traffic Jam Simulation" width="500" height="500">
+  <img src="https://drive.google.com/uc?export=view&id=1FH3rgIyA1jSzSRNE9wLEgzj60DBnLoyX" alt="Phantom Traffic Jam Simulation" width="600" height="600">
 </p>
-
-!["Phantom Traffic Jam Simulation"](../img/2024-07-28-phantom-traffic-jam-sim.gif){:data-gifffer="/img/createblog/create_blog_edit_config.gif"}
-
 
 You can also find other great traffic simulators [here](https://www.traffic-simulation.de/) or see how traffic flows through different types of junctions [this video](https://www.youtube.com/watch?v=yITr127KZtQ).
 
