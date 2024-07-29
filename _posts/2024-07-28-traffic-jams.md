@@ -28,8 +28,6 @@ To model this effect, I took inspiration from the work done by researchers and p
   <img src="https://drive.google.com/uc?export=view&id=1FH3rgIyA1jSzSRNE9wLEgzj60DBnLoyX" alt="Phantom Traffic Jam Simulation" width="600" height="600">
 </p>
 
-![Testing](https://drive.usercontent.google.com/download?id=1FH3rgIyA1jSzSRNE9wLEgzj60DBnLoyX)
-
 You can also find other great traffic simulators [here](https://www.traffic-simulation.de/) or see how traffic flows through different types of junctions [this video](https://www.youtube.com/watch?v=yITr127KZtQ).
 
 Beyond increasing the time it takes for road users to get to their destinations, phantom traffic is also very inefficient for vehicles because when cars are decelerating or coasting, they burn less fuel and emit much less toxic gases. But when cars drive and stop, and then drive and stop in areas with phantom traffic, each accelerating run burns more gas and emits more pollutants. Research has also shown that phantom traffic causes more accidents as drivers could overreact or underreact to what might happen in front of them (think back on the biking example from STP). Optimistically, autonomous vehicles driving on the roadway dynamically adjust their average speed with knowledge of the traffic ahead, which could help reduce phantom jams. Likewise, such driverless vehicles can be modeled to compute the best following distance and speeds to prevent traffic buildup or react in ways that reduce them.
