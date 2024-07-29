@@ -37,9 +37,10 @@ As a side note, I've also been reading a little about why increasing the size of
 ### References
 
 And resources to learn more from: 
-- https://www.youtube.com/watch?v=TNokBgtSUvQ&t=11s
-- https://www.newscientist.com/article/dn13402-shockwave-traffic-jam-recreated-for-first-time/
-- http://trafficwaves.org/
-- https://www.smartmotorist.com/traffic-jams
-- https://helper.ipam.ucla.edu/publications/tratut/tratut_12985.pdf
-- https://math.mit.edu/traffic/
+- [Why the @#$% is there so much traffic? - Benjamin Seibold](https://www.youtube.com/watch?v=TNokBgtSUvQ&t=11s)
+- [Shockwave traffic jam recreated for first time](https://www.newscientist.com/article/dn13402-shockwave-traffic-jam-recreated-for-first-time/)
+- [Traffic Waves](http://trafficwaves.org/)
+- [Traffic Jams](https://www.smartmotorist.com/traffic-jams)
+- [A Mathematical Introduction to
+Traffic Flow Theory](https://helper.ipam.ucla.edu/publications/tratut/tratut_12985.pdf)
+- [Traffic Modeling - Phantom Traffic Jams and Traveling Jamitons](https://math.mit.edu/traffic/)
