@@ -25,7 +25,7 @@ Now, on a busy evening, your kitchen is abuzz with activity. Each chef works at 
 
 Just as your restaurant thrives by distributing the workload across multiple chefs, distributed computing systems efficiently handle large tasks by dividing them across multiple computers. The benefits of distributed computing are tremendous, many of which you can read about in this [AWS Article](https://aws.amazon.com/what-is/distributed-computing), this [IBM Article](https://www.ibm.com/docs/en/txseries/8.2?topic=overview-what-is-distributed-computing), or this [Geeks for Geeks Post](https://www.geeksforgeeks.org/what-is-distributed-computing/). Now, onto `broadcasting.` 
 
-### `Broadcasting` (As it applies to Distributed Computing)
+### Broadcasting (As it applies to Distributed Computing)
 
 After several months of running your restaurant smoothly with a trusted team of chefs, you take a well-deserved break. Your travels take you to Europe, where one of your stops is the historic Bletchley Park in Milton Keynes, renowned for its pivotal role in World War II. Bletchley Park was where brilliant minds, including Sir Alan Turing, Gordon Welchman, Joan Clarke, and many others, worked tirelessly to crack the German Enigma code. The complexity of these codes meant that a single person, or even a small team, couldn’t break them quickly enough to be effective. So, the [Government Code & Cypher School (GC&CS)](https://www.gchq.gov.uk/section/history/our-origins-and-wwi) assembled a large team of experts, creating what was effectively a distributed system.
 
@@ -33,13 +33,13 @@ At Bletchley Park, each codebreaker worked simultaneously on different parts of 
 
 In distributed computing, `broadcasting` refers to the process of sending a piece of data to all `nodes` in a `cluster,` allowing them to use the data locally without requiring repeated network communication. This approach minimizes communication overhead and enables more efficient computation, much like how the codebreakers at Bletchley Park worked more effectively with the information they were given.
 
-## `Broadcasting` in Spark
+## Broadcasting in Spark
 
 [Apache Spark](https://spark.apache.org/) is a powerful open-source distributed computing system designed for fast data processing on large-scale datasets. It is widely used in big data analytics because it performs complex computations quickly and efficiently across a `cluster` of computers. Spark builds upon the [Hadoop](https://hadoop.apache.org/) ecosystem and can work seamlessly with the [Hadoop Distributed File System (HDFS)](https://hadoop.apache.org/docs/r1.2.1/hdfs_design.html). HDFS is a distributed storage system that allows Spark to store and access large datasets across multiple `nodes` in a `cluster.` This distributed storage capability is crucial for handling massive volumes of data, enabling Spark to process them in `parallel` across many machines.
 
 However, when working with large datasets and complex computations, efficient data sharing across the `nodes` becomes essential. This is where the concept of `broadcasting` comes into play. In Spark, `broadcasting` is a mechanism that allows a small dataset or a piece of data to be efficiently shared with all the `nodes` in the `cluster.` Instead of sending the same data multiple times to different `nodes,` Spark `broadcasts` the data once to all `nodes.` Each `node` then stores a local copy of the `broadcasted` data, allowing it to access the data quickly without repeatedly fetching it from the driver or another central location. Let's consider `join` operations in Spark as an example of how this works.
 
-#### Shuffling: The Default Approach for `Joins`
+#### Shuffling: The Default Approach for Joins
 
 In distributed computing, particularly in Spark, one of the critical operations is `joining` datasets. Spark uses a technique called `shuffling` when performing certain operations on datasets, such as `joins,` grouping, and aggregations. Shuffling redistributes the data across different `nodes` in a Spark `cluster,` grouping data elements that need to be processed together on the same `node.` For instance, in a `join` operation, shuffling ensures that matching keys from different datasets are brought together in the same partition, allowing the `join` to be executed. 
 
@@ -56,11 +56,11 @@ Imagine Spark needs to `join` a large dataset with a much smaller one. The large
 
 Instead, with `broadcasting,` Spark sends a single copy of the smaller dataset to each `node.` Each `node` then performs the `join` locally, using its portion of the large dataset and the `broadcasted` small dataset. This approach yields advantages in reduced network traffic (large amounts of data are not shuffled across the network; only the small dataset is `broadcasted,` resulting in a reduction in the amount of data that needs to be transferred), faster computation (as each `node` can perform the `join` operation locally without needing to wait for data from other `nodes` and without the need for extension disk I/O, as the data is already in memory), efficient resource utilization (as the need for shuffling is eliminated, `broadcasting` reduces the strain on computational and memory resources; reducing the overall cost of running Spark jobs).
 
-### More on `Broadcasting` in Spark
+### More on Broadcasting in Spark
 
 It is vital to appropriately leverage `broadcasting` to truly make Spark computations more efficient. When performing operations such as `joins` or aggregations, where a small dataset needs to be applied to a large one, using Spark’s `Broadcast` variables can significantly improve performance. Spark automatically distributes these `broadcast` variables to all the `nodes,` which remain cached in memory on each `node,` allowing for fast access. Developers can create `broadcast` variables using the [`SparkContext.broadcast()`](https://spark.apache.org/docs/3.1.3/api/python/reference/api/pyspark.SparkContext.broadcast.html) method, ensuring the data is distributed efficiently across the `cluster.` You can learn more about using `broadcasting` in spark operations with these articles: [Broadcast variables in spark work like they sound](https://medium.com/@ARishi/broadcast-variables-in-spark-work-like-they-sound-c08097b80ac4), [Understanding `Broadcast` Variables In Apache Spark](https://medium.com/@Prashank.jauhari/understanding-broadcast-variables-in-apache-spark-8233d35726fc). 
 
-### Automatic `Broadcasts` and the Spark `Broadcast` Threshold in Spark
+### Automatic Broadcasts and the Spark Broadcast Threshold in Spark
 
 Spark further simplifies the use of `broadcasting` by automatically determining when to `broadcast` small datasets during certain operations like `joins.` By default, Spark automatically `broadcasts` any dataset that is smaller than a predefined threshold, known as the `broadcast` threshold. This threshold is controlled by the configuration parameter `spark.sql.autoBroadcastJoinThreshold`, which is set to 10 MB by default (and maxes out at 8GB). When a dataset falls below this size, Spark will automatically `broadcast` it to all `nodes` in the `cluster` without requiring explicit instructions from the developer. This automatic `broadcasting` is particularly useful because it optimizes performance without the need for manual intervention, allowing Spark to handle `joins` more efficiently by avoiding unnecessary shuffling.
 
