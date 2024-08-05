@@ -1,4 +1,4 @@
-# Broadcasting in Spark 📢
+# Broadcasting in Spark 📣
 
 <p align="center">
   <img src="https://wizardzines.com/images/uploads/scenes-from-distributed-systems.jpg" alt="Distributed Systems">
