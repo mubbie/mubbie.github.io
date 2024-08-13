@@ -15,7 +15,7 @@ Now, onto the main event: why am I writing about tactics in soccer? I’m no tac
 As I write this, I’m reminded of my final year in secondary school, when I spent countless hours playing Football Manager with my close friend, Bamshak, and my roommate, Dama. We would obsess over tactics, trying to determine how to gain an advantage. Admittedly, much of the game was about playing the market to build the right squad, but how you put that squad together, and the game plan mattered just as much. For old-time's sake, below is a picture of me and Bamshak. You can probably guess what we were discussing. Let me help you—we were playing Football Manager on a Saturday (we went to boarding school) when we lost power (in Nigeria, frequent power outages were the norm). So, we finally decided to step outside and ended up sitting by the basketball court, discussing tactics and how to maximize our chances of winning. What a wonderful time that was.
 
 <p align="center">
-  <img src="https://res.cloudinary.com/dm60dcmf7/image/upload/v1723532926/Mubbie_and_Bamshak_lcuhw5.jpg" alt="Mubbie and Bamshak" width="576" height="432">
+  <img src="https://res.cloudinary.com/dm60dcmf7/image/upload/v1723532926/Mubbie_and_Bamshak_lcuhw5.jpg" alt="Mubbie and Bamshak" width="432" height="324">
 </p>
 
 As I've already said, I’m no expert, but I’m learning as I go, and I want to share some of what I’ve uncovered. In this post, I’ll dive into tactical divisions of the pitch, phases of play, positional play, marking strategies, and a few other exciting things I have learned about tactics in soccer. So, stick around, enjoy the read, and share your thoughts on different vital tactics and considerations in soccer. And as an excellent introduction to the positions players take on the pitch, check out this [video](https://www.youtube.com/watch?v=HgSJdoO5CeI) as well as [this one](https://www.youtube.com/watch?v=RNvcFG6LX1o) to get a quick overview of formations.
@@ -47,7 +47,7 @@ The 5-channel division divides the pitch into the `wings (outside right and left
 Beyond these basic methods, more sophisticated ways to divide a soccer pitch exist. One such method is the 18-zone division of the pitch, as shown in the image below:
 
 <p align="center">
-  <img src="https://www.researchgate.net/publication/336578142/figure/fig2/AS:11431281238310875@1713896451174/The-pitch-of-play-divided-into-18-zones.tif" alt="The pitch of play divided into 18 zones" width="500" height="400">
+  <img src="https://www.researchgate.net/publication/336578142/figure/fig2/AS:11431281238310875@1713896451174/The-pitch-of-play-divided-into-18-zones.tif" alt="The pitch of play divided into 18 zones" width="375" height="300">
 </p>
 
 <p align="center">
