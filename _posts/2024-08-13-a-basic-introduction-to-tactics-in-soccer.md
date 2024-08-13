@@ -125,7 +125,7 @@ And resources to learn more from:
 - [Man Marking or Zonal? Outlining the Arguments for Both Defensive Approaches](https://bleacherreport.com/articles/1360111-man-marking-or-zonal-outlining-the-arguments-for-both-defensive-approaches)
 - [What Is Catenaccio?](https://jobsinfootball.com/blog/tactics/what-is-catenaccio/)
 - [Key Tactical Decisions That Took Chelsea to the Premier League Title](https://bleacherreport.com/articles/2451650-key-tactical-decisions-that-took-chelsea-to-the-premier-league-title)
-- [Klopp's Tactics Behind The Greatest Season \| Liverpool's 2019/20 Tactics \| How Klopp Improved LFC |](https://www.youtube.com/watch?v=3aquVwSOQ3s)
+- [Klopp's Tactics Behind The Greatest Season \| Liverpool's 2019/20 Tactics \| How Klopp Improved LFC \|](https://www.youtube.com/watch?v=3aquVwSOQ3s)
 - [Formations Explained](https://youtube.com/playlist?list=PLWYJXDKS21OE6Sje-oOr_cpI01kF505kL&si=c_XU7mx62VtT0O8F)
 - [Tifo Football Encyclopedia](https://youtube.com/playlist?list=PLWYJXDKS21OGVHJDAFL2wExNAkqvYYK3C&si=ff3DVJjCLYFsV6Ji)
 - [Tactics Explained \| Tifo Football](https://youtube.com/playlist?list=PLWYJXDKS21OE39KTymISkCrgCckZh2_sD&si=auxFCdlZQuDut8uE)
