@@ -73,7 +73,7 @@ Despite the performance improvements from `broadcasting,` it's essential to be m
 ### References
 
 And resources to learn more from: 
-- [The Women of Bletchley Park](https://artsandculture.google.com/story/the-women-of-bletchley-park-bletchley-park/)
+- [The Women of Bletchley Park](https://artsandculture.google.com/story/the-women-of-bletchley-park-bletchley-park/qgVxQIAxvdB-JA)
 - [`Class Broadcast<T>`](https://spark.apache.org/docs/1.5.1/api/java/org/apache/spark/broadcast/Broadcast.html)
 - [`Broadcast` Variables](https://books.japila.pl/apache-spark-internals/broadcast-variables/)
 - [Video on Spark `Broadcast` Variables](https://youtu.be/irn2Ow4QhWM?si=9q0tg2AnXsH-h82q)
