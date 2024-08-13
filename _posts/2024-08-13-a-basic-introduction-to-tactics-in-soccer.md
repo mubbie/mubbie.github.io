@@ -1,11 +1,11 @@
 # A Basic Introduction to Tactics in Soccer
 
 <p align="center">
-  <img src="https://imgs.xkcd.com/comics/spacetime_soccer.png" alt="Space Time Soccer">
+  <img src="https://res.cloudinary.com/dm60dcmf7/image/upload/v1723564261/football_tactics__gatis_sluka_ka3dht.jpg" alt="Football tactics">
 </p>
 
 <p align="center">
-  <em> Image Source: <a href="https://xkcd.com/">XKCD</a> </em>
+  <em> Image Source: <a href="https://www.cartoonmovement.com/cartoon/football-tactics">Cartoon Movement /| Gatis Sluka</a> </em>
 </p>
 
 I'll start this post with a light-hearted apology to my dear friends and other readers who, upon seeing the title, are already rolling their eyes. "Soccer? What do you mean? It's football!" I hear your cries and trust me; I get it. After all, I grew up in Nigeria, where the word "football" is as sacred as jollof rice at a family gathering. But bear with me—I have my reasons. Back in my secondary school days, we played a lot of football—or, as we liked to call it, soccer. Yes, you read that right. We were the kids who thought we were too cool for "football." I mean, we even refused to call _akara_ or _kosai_ by the names everyone else used, insisting on the far more sophisticated _"Bean Cake."_ So, when my friends wanted to hit the pitch, they didn’t say, "Let’s go play some football." No way! They’d say, "Let’s go tap soccer!" It was a whole vibe. So, for nostalgia's sake—and maybe because I now live in America, where "soccer" reigns supreme—I’ll be sticking with "soccer" for this post. But rest assured, my football-loving heart is still very much intact.
