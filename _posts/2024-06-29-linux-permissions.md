@@ -3,8 +3,6 @@
 ![letting-go](https://imgs.xkcd.com/comics/letting_go.png)
 _Image Source: [XKCD](https://xkcd.com/215/)_
 
-![test-image](../img/2024-07-28-phantom-traffic-jam-sim.gif)
-
 ### Introduction
 
 In computing, `permissions` define the level of access, privilege, and control that users have over files, applications, and other system resources. These permissions are divided into three broad categories: **Read (`R`)**: letting users view the content of files and directories, **Write (`W`)**: letting users create, modify, and delete files and directories, and **Execute (`X`)**: letting users run files or programs.
