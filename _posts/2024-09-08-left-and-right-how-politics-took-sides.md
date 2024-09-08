@@ -109,7 +109,7 @@ On the right, populist leaders capitalized on frustrations with globalization, i
 ## Conclusion: The Modern Left, Right, and Beyond
 
 <p align="center">
-  <img src="https://res.cloudinary.com/dm60dcmf7/image/upload/v1725781958/0dnud7gl5es41_q76fbz.png" alt="Brexit" style="width: 100%; max-width: 769px;"">
+  <img src="https://res.cloudinary.com/dm60dcmf7/image/upload/v1725781958/0dnud7gl5es41_q76fbz.png" alt="Brexit" style="width: 100%; max-width: 769px;">
 </p>
 
 <p align="center">
