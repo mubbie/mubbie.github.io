@@ -23,7 +23,7 @@ With that said, let’s delve into the history of left and right-wing politics.
 ## It Started in France
 
 <p align="center">
-  <img src="https://res.cloudinary.com/dm60dcmf7/image/upload/v1725777290/StormingBastille1789JPHouel_pzowml.jpg" alt="Storming of the Bastille 1789 by Jean-Pierre Houël, French Revolution" width="432" height="324">
+  <img src="https://res.cloudinary.com/dm60dcmf7/image/upload/v1725777290/StormingBastille1789JPHouel_pzowml.jpg" alt="Storming of the Bastille 1789 by Jean-Pierre Houël, French Revolution" style="width: 100%; max-width: 432px;">
 </p>
 
 <p align="center">
@@ -35,7 +35,7 @@ Like [champagne](https://thechampagnecompany.com/blog/history-of-champagne.html)
 When they gathered at Versailles, the nobility and clergy sat on the King’s right while the commoners sat on his left. The goal of the meeting was to draft a new constitution to address the mounting crisis.
 
 <p align="center">
-  <img src="https://res.cloudinary.com/dm60dcmf7/image/upload/v1725777579/left-right-french-revolution_d3bt61.gif" alt="The French Revolution" width="432" height="324">
+  <img src="https://res.cloudinary.com/dm60dcmf7/image/upload/v1725777579/left-right-french-revolution_d3bt61.gif" alt="The French Revolution" style="width: 100%; max-width: 432px;">
 </p>
 
 <p align="center">
@@ -65,7 +65,7 @@ The formation of political parties based on these ideologies became a defining f
 ### Early 20th Century: The Ideological Clash Intensifies
 
 <p align="center">
-  <img src="https://res.cloudinary.com/dm60dcmf7/image/upload/v1725778001/Unknown-Artist-Speech-by-Lenin-1_vvflhp.jpg" alt="The Russian Revolution" width="769" height="447">
+  <img src="https://res.cloudinary.com/dm60dcmf7/image/upload/v1725778001/Unknown-Artist-Speech-by-Lenin-1_vvflhp.jpg" alt="The Russian Revolution" style="width: 100%; max-width: 769px;">
 </p>
 
 <p align="center">
@@ -96,7 +96,7 @@ After the Cold War, [the collapse of the Soviet Union](https://europe.unc.edu/ir
 Meanwhile, [neoliberalism](https://www.investopedia.com/terms/n/neoliberalism.asp)—characterized by deregulation, free trade, and globalization—gained momentum, particularly among right-wing parties. However, this economic liberalization led to growing inequality, discontent among the working class, and an erosion of traditional industries. As a result, populist movements began to rise in both the left and right.
 
 <p align="center">
-  <img src="https://res.cloudinary.com/dm60dcmf7/image/upload/v1725780236/brexit_scissor_0_cwvqof.jpg" alt="Brexit" width="769" height="447">
+  <img src="https://res.cloudinary.com/dm60dcmf7/image/upload/v1725780236/brexit_scissor_0_cwvqof.jpg" alt="Brexit" style="width: 100%; max-width: 769px;">
 </p>
 
 <p align="center">
@@ -109,7 +109,7 @@ On the right, populist leaders capitalized on frustrations with globalization, i
 ## Conclusion: The Modern Left, Right, and Beyond
 
 <p align="center">
-  <img src="https://res.cloudinary.com/dm60dcmf7/image/upload/v1725781958/0dnud7gl5es41_q76fbz.png" alt="Brexit" width="500" height="500">
+  <img src="https://res.cloudinary.com/dm60dcmf7/image/upload/v1725781958/0dnud7gl5es41_q76fbz.png" alt="Brexit" style="width: 100%; max-width: 769px;"">
 </p>
 
 <p align="center">
@@ -128,7 +128,7 @@ Interestingly, the association of red and blue with U.S. political parties is a 
 The 2000 election, a prolonged battle over the results between George W. Bush and Al Gore, solidified the red and blue divide. Major TV networks consistently used blue for Democrats and red for Republicans in their electoral maps, and the color scheme stuck. This is somewhat unusual compared to other countries, where red signifies left-wing or socialist parties, and blue is often associated with conservative movements. Nonetheless, in the U.S., blue has come to symbolize the Democratic Party and red the Republican Party—creating a lasting visual shorthand for America's political divide. These videos provide some useful context into this history: [Why red means Republican and blue means Democrat](https://www.youtube.com/watch?v=lgz3p4cEXZU), [America 101: Why Red for Republicans and Blue for Democrats? \| History](https://www.youtube.com/watch?v=pNBgQjHIPY8), and [Why Red is Republican & Blue is Democrat: States & Party Colors \| Democrat & Republican History](https://www.youtube.com/watch?v=WMb22djtY0c).
 
 <p align="center">
-  <img src="https://res.cloudinary.com/dm60dcmf7/image/upload/v1725783461/181105120704-thomas-nast-elephant-donkey-1_eewtwg.webp" alt="This political cartoon by Thomas Nast, taken from a 1879 edition of Harper's Weekly, was an early use of the elephant and the donkey to sybolize the Republican and Democratic parties." width="370" height="556">
+  <img src="https://res.cloudinary.com/dm60dcmf7/image/upload/v1725783461/181105120704-thomas-nast-elephant-donkey-1_eewtwg.webp" alt="This political cartoon by Thomas Nast, taken from a 1879 edition of Harper's Weekly, was an early use of the elephant and the donkey to sybolize the Republican and Democratic parties." style="width: 100%; max-width: 370px;">
 </p>
 
 <p align="center">
@@ -167,6 +167,3 @@ While I have cited several sources in this blog post, below are some other resou
 - [The Global Reach of the Napoleonic Wars](https://origins.osu.edu/review/global-reach-napoleonic-wars)
 - [THE INDUSTRIAL REVOLUTION IN EUROPE](https://www.erih.net/how-it-started/the-industrial-revolution-in-europe)
 - [Talking About Politics: LEFT WING & RIGHT WING](https://www.youtube.com/watch?v=CDR1zwy9h2Q)
-
-
-
