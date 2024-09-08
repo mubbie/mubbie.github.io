@@ -1,7 +1,7 @@
 # Left and Right: How Politics Took Sides
 
 <p align="center">
-  <img src="https://res.cloudinary.com/dm60dcmf7/image/upload/v1725775941/220815-battle_ajmdh8.jpg" alt="Left vs Right" width="432" height="324">
+  <img src="https://res.cloudinary.com/dm60dcmf7/image/upload/v1725775941/220815-battle_ajmdh8.jpg" alt="Left vs Right" style="width: 100%; max-width: 432px;">
 </p>
 
 <p align="center">
