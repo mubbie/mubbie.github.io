@@ -125,7 +125,7 @@ Finally, in the upcoming 2024 Presidential Elections, the right-wing candidate, 
 
 Interestingly, the association of red and blue with U.S. political parties is a relatively recent development. Before the 2000 U.S. Presidential election, there was no consistent color scheme for Democrats and Republicans. In fact, throughout much of the 20th century, news outlets used varying color assignments, often reversing what we know today.
 
-The 2000 election, a prolonged battle over the results between George W. Bush and Al Gore, solidified the red and blue divide. Major TV networks consistently used blue for Democrats and red for Republicans in their electoral maps, and the color scheme stuck. This is somewhat unusual compared to other countries, where red signifies left-wing or socialist parties, and blue is often associated with conservative movements. Nonetheless, in the U.S., blue has come to symbolize the Democratic Party and red the Republican Party—creating a lasting visual shorthand for America's political divide. These videos provide some useful context into this history: [Why red means Republican and blue means Democrat](https://www.youtube.com/watch?v=lgz3p4cEXZU), [America 101: Why Red for Republicans and Blue for Democrats? | History](https://www.youtube.com/watch?v=pNBgQjHIPY8), and [Why Red is Republican & Blue is Democrat: States & Party Colors | Democrat & Republican History](https://www.youtube.com/watch?v=WMb22djtY0c).
+The 2000 election, a prolonged battle over the results between George W. Bush and Al Gore, solidified the red and blue divide. Major TV networks consistently used blue for Democrats and red for Republicans in their electoral maps, and the color scheme stuck. This is somewhat unusual compared to other countries, where red signifies left-wing or socialist parties, and blue is often associated with conservative movements. Nonetheless, in the U.S., blue has come to symbolize the Democratic Party and red the Republican Party—creating a lasting visual shorthand for America's political divide. These videos provide some useful context into this history: [Why red means Republican and blue means Democrat](https://www.youtube.com/watch?v=lgz3p4cEXZU), [America 101: Why Red for Republicans and Blue for Democrats? \| History](https://www.youtube.com/watch?v=pNBgQjHIPY8), and [Why Red is Republican & Blue is Democrat: States & Party Colors \| Democrat & Republican History](https://www.youtube.com/watch?v=WMb22djtY0c).
 
 <p align="center">
   <img src="https://res.cloudinary.com/dm60dcmf7/image/upload/v1725783461/181105120704-thomas-nast-elephant-donkey-1_eewtwg.webp" alt="This political cartoon by Thomas Nast, taken from a 1879 edition of Harper's Weekly, was an early use of the elephant and the donkey to sybolize the Republican and Democratic parties." width="370" height="556">
@@ -148,16 +148,16 @@ While I have cited several sources in this blog post, below are some other resou
 - [Otto von Bismarck](https://www.ssa.gov/history/ottob.html)
 - [What’s the origin of the right and left terms in politics?](https://www.labrujulaverde.com/en/2020/04/whats-the-origin-of-the-right-and-left-terms-in-politics/)
 - [Thomas Nast's first Republican elephant print](https://www.rarenewspapers.com/view/597224?imagelist=1)
-- [Political Spectrum Explained | What is the Political Spectrum? | Left Vs Right](https://www.youtube.com/watch?v=0DLjzp645is)
+- [Political Spectrum Explained \| What is the Political Spectrum? \| Left Vs Right](https://www.youtube.com/watch?v=0DLjzp645is)
 - [Political Spectrums Explained — Why is there a left-wing and right wing?](https://www.youtube.com/watch?v=BjQHuBvdyNg)
-- [What’s the deal with left and right in politics? | Politics Explained (Easily) | ABC News](https://www.youtube.com/watch?v=CcXVtQMpqT4)
+- [What’s the deal with left and right in politics? \| Politics Explained (Easily) \| ABC News](https://www.youtube.com/watch?v=CcXVtQMpqT4)
 - [Every Political Ideology Explained in 8 Minutes](https://www.youtube.com/watch?v=9cz4ikFcwMY)
 - [Political Ideology: Crash Course Government and Politics #35](https://www.youtube.com/watch?v=j_k_k-bHigM)
 - [The Political Spectrum](https://www.youtube.com/watch?v=XJA3EhyVPc0)
 - [How we know what Left and Right actually mean: who’s who, 1789-1917](https://www.youtube.com/watch?v=B3uevocEy3c)
 - [Where Did the Terms ‘Left Wing’ and ‘Right Wing’ Come From?](https://www.history.com/news/how-did-the-political-labels-left-wing-and-right-wing-originate)
 - [The French Revolution: Crash Course World History #29](https://www.youtube.com/watch?v=lTTvKwCylFY)
-- [Left Wing, Centre and Right Wing Explained | Conservatives, Labour & Liberal Democrats Summarised!](https://www.youtube.com/watch?v=NOJV9-24rIY)
+- [Left Wing, Centre and Right Wing Explained \| Conservatives, Labour & Liberal Democrats Summarised!](https://www.youtube.com/watch?v=NOJV9-24rIY)
 - [The Three Estates](https://thehistoryofrome.typepad.com/revolutions_podcast/2014/07/31-the-three-estates-.html)
 - [A history (and defense) of left vs right](https://www.slowboring.com/p/a-history-and-defense-of-left-vs)
 - [2024 Democratic Party Platform](https://www.presidency.ucsb.edu/documents/2024-democratic-party-platform)
