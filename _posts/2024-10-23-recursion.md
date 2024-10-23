@@ -1,7 +1,7 @@
 # Recursion: In Computer Science 
 
 <p align="center">
-  <img src="https://res.cloudinary.com/dm60dcmf7/image/upload/v1727497118/pooh-recursion_amrjrc.gif" alt="Pooh Recursion" width="506" height="516">
+  <img src="https://res.cloudinary.com/dm60dcmf7/image/upload/v1727497118/pooh-recursion_amrjrc.gif" alt="Pooh Recursion" width="253" height="258">
 </p>
 
 <p align="center">
@@ -183,7 +183,7 @@ Divide and conquer algorithms are almost inherently recursive, as the logic is t
 **Merge Sort:** This algorithm divides an unsorted list into two halves, recursively sorts each half, and then merges the sorted halves. For example, if we need to sort a list of numbers, merge sort recursively splits the list in half until it reaches sublists of size 1, which are inherently sorted, and then merges them. Below is a good graphic on how this algorithm proceeds:
 
 <p align="center">
-  <img src="https://res.cloudinary.com/dm60dcmf7/image/upload/v1729439533/merge_sort_w6r30d.png" alt="Mop Bucket Label" width="464" height="337">
+  <img src="https://res.cloudinary.com/dm60dcmf7/image/upload/v1729439533/merge_sort_w6r30d.png" alt="Mop Bucket Label" width="232" height="168">
 </p>
 
 <p align="center">
@@ -194,7 +194,7 @@ Divide and conquer algorithms are almost inherently recursive, as the logic is t
 **Quick Sort:** This algorithm works by selecting a "pivot" element from a list of items, partitioning the remaining elements into two sublists based on whether they are less than or greater than the pivot, and then recursively applying the same process to the sublists. Once the base case (an empty or single-element list) is reached, the recursion unwinds, and the fully sorted list is returned. This recursive partitioning enables quicksort to handle large datasets efficiently.
 
 <p align="center">
-  <img src="https://res.cloudinary.com/dm60dcmf7/image/upload/v1729645257/QuickSort_dibmd2.jpg" alt="Mop Bucket Label" width="540" height="304">
+  <img src="https://res.cloudinary.com/dm60dcmf7/image/upload/v1729645257/QuickSort_dibmd2.jpg" alt="Mop Bucket Label" width="270" height="152">
 </p>
 
 <p align="center">
@@ -312,7 +312,7 @@ These are good articles to learn more about efficiency as related to recursions:
 ## Tail Recursion Optimization
 
 <p align="center">
-  <img src="https://res.cloudinary.com/dm60dcmf7/image/upload/v1729665944/tail-recursion_vp5xof.png" alt="Mop Bucket Label" width="662" height="392">
+  <img src="https://res.cloudinary.com/dm60dcmf7/image/upload/v1729665944/tail-recursion_vp5xof.png" alt="Mop Bucket Label" width="331" height="196">
 </p>
 
 <p align="center">
