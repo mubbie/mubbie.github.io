@@ -385,7 +385,7 @@ While I have cited a handful of sources in this blog post, below are some other 
 
 - [Project Python: Recursion](https://projectpython.net/chapter12/)
 - [Recursion: The Pros and Cons](https://medium.com/@williambdale/recursion-the-pros-and-cons-76d32d75973a)
-- [How to Think Recursively | Solving Recursion Problems in 4 Steps](https://levelup.gitconnected.com/how-to-think-recursively-solving-recursion-problems-in-4-steps-95a6d07aa866)
+- [How to Think Recursively \| Solving Recursion Problems in 4 Steps](https://levelup.gitconnected.com/how-to-think-recursively-solving-recursion-problems-in-4-steps-95a6d07aa866)
 - [Fibonacci Numbers](https://www2.nau.edu/lrm22/lessons/fibonacci/fibonacci.html)
 - [Merge Sort – Data Structure and Algorithms Tutorials](https://www.geeksforgeeks.org/merge-sort/)
 - [Memoization](https://www.interviewcake.com/concept/java/memoization)
