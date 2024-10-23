@@ -246,9 +246,6 @@ Beyond the abovementioned ones, recursion is used in numerous other real-world a
 
 While recursion is a powerful tool extensively used in programming, it comes with its own set of challenges and pitfalls. The most common issues that arise with recursive algorithms are **[stack overflow](https://stackoverflow.com/)** (not the popular Q&A website for developers—even though I mischievously linked it above 😈) and **efficiency drawbacks**.
 
-
-To use recursion effectively and avoid unexpected problems, it's essential to understand potential issues such as **[stack overflow](https://stackoverflow.com/)** (not the popular Q&A website for developers—even though I mischievously linked it above 😈) and **efficiency drawbacks**.
-
 ### Stack Overflow
 
 Before diving into stack overflow, let's understand how the call stack works. Think of the call stack as a stack of plates in a kitchen. When you wash dishes, each time you finish cleaning a plate, you place it on top of the stack. As you keep washing more plates, you continue stacking them on top. When you're done, you take the top plate off first, then the next, and so on—removing them in reverse order. This is exactly how the call stack works in programming: each new function call gets "stacked" on top of the previous one, and when a function completes, it is "popped" off the stack in a last-in, first-out (LIFO) manner. You can read more about the call stack in [this article](https://medium.com/@ryanfarney/breaking-down-the-call-stack-e68b5633fbad).
