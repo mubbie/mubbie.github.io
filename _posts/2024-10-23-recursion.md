@@ -215,7 +215,7 @@ A classic example of recusion and memoization is the Fibonacci sequence. In a na
 
 To optimize this, memoization stores the result of each Fibonacci number once it's computed, so the function doesn't have to recompute it in future calls. Here's an optimized version using recursion and memoization:
 
-"`python
+```python
 def fibonacci(n, memo={}):
     if n in memo:
         return memo[n]
@@ -224,7 +224,6 @@ def fibonacci(n, memo={}):
     else:
         memo[n] = fibonacci(n - 1, memo) + fibonacci(n - 2, memo)
         return memo[n]
-
 ```
 
 By storing the results of subproblems in the dictionary (`memo`), this version of the Fibonacci function ensures that each Fibonacci number is only computed once, reducing the time complexity from exponential to linear.
