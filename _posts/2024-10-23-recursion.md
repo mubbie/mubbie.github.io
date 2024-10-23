@@ -244,7 +244,10 @@ Beyond the abovementioned ones, recursion is used in numerous other real-world a
   </em>
 </p>
 
-While recursion is a powerful tool extensively used in modern programming, it comes with its own set of challenges and pitfalls. To use recursion effectively and avoid unexpected problems, it's essential to understand potential issues such as **[stack overflow](https://stackoverflow.com/)** (not the popular Q&A website for developers—even though I mischievously linked it above 😈) and efficiency concerns**.
+While recursion is a powerful tool extensively used in programming, it comes with its own set of challenges and pitfalls. The most common issues that arise with recursive algorithms are **[stack overflow](https://stackoverflow.com/)** (not the popular Q&A website for developers—even though I mischievously linked it above 😈) and **efficiency drawbacks**.
+
+
+To use recursion effectively and avoid unexpected problems, it's essential to understand potential issues such as **[stack overflow](https://stackoverflow.com/)** (not the popular Q&A website for developers—even though I mischievously linked it above 😈) and **efficiency drawbacks**.
 
 ### Stack Overflow
 
