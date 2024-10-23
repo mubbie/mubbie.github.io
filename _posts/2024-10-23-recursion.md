@@ -231,7 +231,7 @@ Recursion and memoization are frequently used in a wide range of dynamic program
 
 ### Other Application
 
-Beyond the abovementioned ones, recursion is used in numerous other real-world applications. Some examples include [backtracking algorithms](https://www.simplilearn.com/tutorials/data-structure-tutorial/backtracking-algorithm)(used in Sudoku, Maze solvers, etc.), data structure operations such as linked lists or trie data structures, web crawlers (used in search engines), expression evaluations (such as parsing nested parentheses and multiple operations in mathematical expressions), pathfinding algorithms, network protocols, robotics and simulations, image processing, social networks, and many more.
+Beyond the abovementioned ones, recursion is used in numerous other real-world applications. Some examples include [backtracking algorithms](https://www.simplilearn.com/tutorials/data-structure-tutorial/backtracking-algorithm) (used in Sudoku, Maze solvers, etc.), data structure operations such as linked lists or trie data structures, web crawlers (used in search engines), expression evaluations (such as parsing nested parentheses and multiple operations in mathematical expressions), pathfinding algorithms, network protocols, robotics and simulations, image processing, social networks, and many more.
 
 ## Common Pitfalls in Recursion
 
@@ -244,7 +244,7 @@ Beyond the abovementioned ones, recursion is used in numerous other real-world a
   </em>
 </p>
 
-While recursion is a powerful tool extensively used in modern programming, it comes with its own set of challenges and pitfalls. To use recursion effectively and avoid unexpected problems, it's essential to understand potential issues such as stack overflow **[stack overflow](https://stackoverflow.com/)** (not the popular Q&A website for developers—even though I mischievously linked it above 😈) and efficiency concerns**.
+While recursion is a powerful tool extensively used in modern programming, it comes with its own set of challenges and pitfalls. To use recursion effectively and avoid unexpected problems, it's essential to understand potential issues such as **[stack overflow](https://stackoverflow.com/)** (not the popular Q&A website for developers—even though I mischievously linked it above 😈) and efficiency concerns**.
 
 ### Stack Overflow
 
