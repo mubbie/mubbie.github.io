@@ -50,7 +50,7 @@ This way, recursion simplifies complex tasks by tackling them piece by piece—j
 
 In Python, this concept could be implemented using a function `print_one_character` to print a single character:
 
-"`python
+```python
 def print_one_character(char):
     # This function prints a single character
     print(char, end="")
@@ -58,7 +58,7 @@ def print_one_character(char):
 
 We can then use this function in a recursive function, `print_string_recursively`, which continues calling `print_one_character` until all the characters in the phrase are printed:
 
-"`python
+```python
 def print_string_recursively(string):
     # If the string is empty, stop the recursion (we are done printing)
     if len(string) == 0:
@@ -80,7 +80,7 @@ A recursive implementation relies on two critical components: the `base case` an
 
 Here's an example using a factorial function:
 
-"`python
+```python
 def factorial(n):
     if n == 0:  # Base case
         return 1
@@ -122,7 +122,7 @@ The Fibonacci sequence is a series of numbers where each number is the sum of th
 
 The Fibonacci sequence can be defined recursively, because each Fibonacci number is the sum of the two preceding numbers, except the first two numbers in the sequence: `fibonacci(0) = 0` and `fibonacci(1) = 1`. These two serve as our base cases. Here's the function definition below:
 
-"`python
+```python
 # recursive fibonacci function
 def fibonacci(n):
     if n == 0:  # Base case 1
@@ -131,7 +131,6 @@ def fibonacci(n):
         return 1
     else:
         return fibonacci(n - 1) + fibonacci(n - 2)  # Recursive case
-
 ```
 
 Now, let's evaluate the cases:
@@ -261,7 +260,7 @@ If there's no clear base case in the recursive function, or if the input size is
 
 For example, consider a recursive function without a base case:
 
-"`python
+```python
 def infinite_recursion(n):
     print(n)
     return infinite_recursion(n + 1)  # No base case to stop the recursion
@@ -270,7 +269,8 @@ def infinite_recursion(n):
 In the above code, the function `infinite_recursion` keeps calling itself indefinitely, consuming memory on the stack until the program crashes with a stack overflow error. This is why defining a clear and reachable base case is critical in any recursive function.
 
 Even with a proper base case, deep recursion can cause a stack overflow if the input size is too large. For instance, computing large values in the Fibonacci sequence using a naïve recursive implementation can result in deep recursive calls that exhaust the stack:
-```
+
+```python
 def fibonacci(n):
     if n == 0 or n == 1:  # Base cases
         return n
@@ -287,7 +287,7 @@ For example, a simple loop can often achieve the same result as a recursive func
 
 
 #### Recursive Factorial
-"`python
+```python
 def factorial_recursive(n):
     if n == 0:
         return 1
@@ -295,7 +295,7 @@ def factorial_recursive(n):
 ```
 
 #### Iterative Factorial
-"`python
+```python
 def factorial_iterative(n):
     result = 1
     for i in range(1, n + 1):
@@ -332,7 +332,7 @@ However, in a tail-recursive function, the recursive call is the very last opera
 
 Let's compare a simple recursive function to its tail-recursive version. Consider a function that calculates the sum of the first `n` numbers.
 
-"`python
+```python
 def sum_normal(n):
     if n == 0:  # Base case
         return 0
@@ -343,7 +343,7 @@ In this example, after the recursive call `sum_normal(n - 1) "is made, the funct
 
 Now, let's rewrite this function using tail recursion.
 
-"`python
+```python
 def sum_tail_recursive(n, accumulator=0):
     if n == 0:  # Base case
         return accumulator
