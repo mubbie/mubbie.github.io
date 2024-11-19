@@ -1,1 +1,1 @@
-gem 'jekyll-feed'
+gem "jekyll-feed", "~> 0.12"
