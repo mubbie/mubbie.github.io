@@ -1,6 +1,9 @@
 ## Linux Permissions
 
-![letting-go](https://imgs.xkcd.com/comics/letting_go.png)
+<p align="center">
+  <img src="https://imgs.xkcd.com/comics/letting_go.png" alt="Letting Go">
+</p>
+
 _Image Source: [XKCD](https://xkcd.com/215/)_
 
 ### Introduction
