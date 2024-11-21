@@ -9,6 +9,8 @@ Apart from that, and rather vaguely, I am striving to:
 
 I am also currently working on [Lena](https://lena.africa/)
 
-Here, I share some of my thoughts, ideas, learnings, and more.
+Here, I share some of my thoughts, ideas, learnings, and more. ✍🏾️
+
+[Subscribe](https://mubbiesnotebook.substack.com/) to get full access to the newsletter and publication archives.
 
 Welcome.
