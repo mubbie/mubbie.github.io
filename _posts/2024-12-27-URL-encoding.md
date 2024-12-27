@@ -42,7 +42,7 @@ https://www.internet.com:8080/path/to/resource?query=parameter#fragment
 Here's the breakdown:
 
 <p align="center">
-  <img src="https://res.cloudinary.com/dm60dcmf7/image/upload/v1735335003/URI_syntax_diagram_k0pcsq.svg" width="800" height="75">
+  <img src="https://res.cloudinary.com/dm60dcmf7/image/upload/v1735340546/URI_syntax_diagram_jhoofh.png" width="800" height="75">
 </p>
 
 <p align="center">
