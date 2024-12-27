@@ -73,7 +73,7 @@ In 1992, [Tim Berners-Lee](https://www.w3.org/People/Berners-Lee/) introduced th
 
 Berners-Lee has already proposed the ideas of the [World Wide Web](https://www.w3.org/History/1989/proposal.html). However, for this network to function, it needed a standardized way to identify and locate resources. To address this need, he proposed the idea of the [URL](http://1997.webhistory.org/www.lists/www-talk.1991/0018.html) to serve as a "document identifier." The URL became one of the three core components of the web, alongside **HTML** (for structuring documents) and **HTTP** (for transferring them).
 
-Initially, URLs were simple and primarily used to point to static files hosted on servers [Over time](https://blog.cloudflare.com/the-history-of-the-url/), they evolved alongside the web into a versatile system supporting dynamic content, user inputs, and even encrypted communication. Throughout this evolution, the central principle of universality—the idea that URLs should work on any device and in any context—has stood the test of time.
+Initially, URLs were simple and primarily used to point to static files hosted on servers. [Over time](https://blog.cloudflare.com/the-history-of-the-url/), they evolved alongside the web into a versatile system supporting dynamic content, user input, and even encrypted communication. Throughout this evolution, the central principle of universality—the idea that URLs should work on any device and in any context—has stood the test of time.
 
 ## ASCII and Its Role in URL Encoding
 
@@ -83,7 +83,7 @@ This [128-character set](https://www.ascii-code.com/) included:
 - **Printable characters:** Uppercase (`A-Z`), lowercase (`a-z`), digits (`0-9`), and symbols like `@`, `#`, and `$`, etc.
 - **Control characters:** Instructions for managing text streams, such as newline (`\n`) and tab (`\t`).
 
-ASCII’s simplicity and universality made it the foundation for early computer systems and networks, including the internet. However, its biggest limitation was its inability to represent non-English characters, like `é`, `ß`, or `中`, as well as other writing systems like Cyrillic, Arabic, and Chinese. The biggest reason for this limitation is because, at the time it was invented, memory and processing power were incredibly expensive; hence every bit mattered. By sticking to 7-bits, and thus, 128 characters, [ASCII struck a balance between functionality and efficiency](https://randomtechnicalstuff.blogspot.com/2009/05/unicode-and-oracle.html). It was small enough to fit into the limited storage and memory of the time yet comprehensive enough to provide a range of characters to work with. Likewise, it was a light-weight, simple, easy-to-implement solution and universal (at least for English-speaking developers).
+ASCII’s simplicity and universality made it the foundation for early computer systems and networks, including the internet. However, its biggest limitation was its inability to represent non-English characters, like `é`, `ß`, or `中`, as well as other writing systems like Cyrillic, Arabic, and Chinese. The biggest reason for this limitation is because, at the time it was invented, memory and processing power were incredibly expensive; hence, every bit mattered. By sticking to 7-bits, and, thus, 128 characters, [ASCII struck a balance between functionality and efficiency](https://randomtechnicalstuff.blogspot.com/2009/05/unicode-and-oracle.html). It was small enough to fit into the limited storage and memory of the time yet comprehensive enough to provide a range of characters to work with. Likewise, it was a light-weight, simple, easy-to-implement solution and universal (at least for English-speaking developers).
 
 ### Expanded Character Sets (Beyond ASCII)
 
@@ -175,3 +175,37 @@ And correspondingly, for some non-ASCII Unicode characters:
 # Conclusion
 
 URL encoding is a critical mechanism that allows URLs to safely transmit a wide range of data while maintaining compatibility with the internet’s ASCII-based foundation. So, the next time you see `%20` or `%C3%A9` in a URL, don't panic—it’s just the internet’s way of speaking a language that devices all around the globe can understand.
+
+## References
+
+While I have cited a handful of sources in this blog post, below are some other resources that I used to write it and that can be useful for your further learning.
+
+- [HTML URL Encoding Reference](https://www.w3schools.com/tags//ref_urlencode.asp)
+- [HTML ASCII Reference](https://www.w3schools.com/charsets/ref_html_ascii.asp)
+- [Punycode: A Bootstring encoding of Unicode
+       for Internationalized Domain Names in Applications (IDNA)](https://datatracker.ietf.org/doc/html/rfc3492)
+- [What Happens When You Enter a URL In Your Browser of Choice](https://thehistoryoftheweb.com/history-of-the-url/)
+- [The birth of the Web](https://www.home.cern/science/computing/birth-web)
+- [Uniform Resource Identifier (URI): Generic Syntax](https://datatracker.ietf.org/doc/html/rfc3986)
+- [URL Encoding and what characters are valid in a URI](https://docs.mapp.com/docs/url-encoding-and-what-characters-are-valid-in-a-uri)
+- [The Blessing of Unicode](https://logosconcarne.com/2021/11/15/the-blessing-of-unicode/)
+- [Reserved and excluded characters](https://www.ibm.com/docs/en/cics-ts/6.x?topic=concepts-reserved-excluded-characters)
+- [Types of Network Protocols and Their Uses](https://www.geeksforgeeks.org/types-of-network-protocols-and-their-uses/)
+- [What is a network protocol?](https://www.cloudflare.com/learning/network-layer/what-is-a-protocol/)
+- [What is a URL (Uniform Resource Locator)?](https://techtarget.com/searchnetworking/definition/URL)
+- [The components of a URL](https://www.ibm.com/docs/en/cics-ts/6.x?topic=concepts-components-url)
+- [Uniform Resource Identifier (URI) Schemes](https://www.iana.org/assignments/uri-schemes/uri-schemes.xhtml)
+- [How domain name is transferred in IP address?](https://geeksforgeeks.org/how-domain-name-is-transferred-in-ip-address/)
+- [Difference Between Domain Name and URL](https://www.geeksforgeeks.org/difference-between-domain-name-and-url/)
+- [What is the difference between a website, domain name and a URL?](https://hostarmada.com/kb/domain-and-dns/what-is-difference-between-website-domain-url/)
+- [port number](https://www.techtarget.com/searchnetworking/definition/port-number)
+- [What Are Ports?](https://www.akamai.com/glossary/what-are-ports)
+- [Difference Between IP Address and Port Number](https://www.geeksforgeeks.org/difference-between-ip-address-and-port-number/)
+- [Query Parameters and URI Fragments in URLs](https://medium.com/@dhanukasn/understanding-query-parameters-and-uri-fragments-in-urls-f6c52034b634)
+- [The History of the URL](https://blog.cloudflare.com/the-history-of-the-url/)
+- [Document identifiers](http://1997.webhistory.org/www.lists/www-talk.1991/0018.html)
+- [Computer Mail Meeting Notes](https://www.rfc-editor.org/rfc/rfc805.txt)
+- [How The URL Was Built](https://www.welcometothejungle.com/en/articles/btc-url-internet)
+- [Information Management: A Proposal](https://w3.org/History/1989/proposal.html)
+- [Timeline of ASCII History](https://www.ascii-code.com/timeline)
+- [Unicode: The Journey From Standardizing Texts to Emojis](https://www.translationroyale.com/the-history-of-unicode/)
