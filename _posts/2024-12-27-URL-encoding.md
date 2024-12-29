@@ -111,7 +111,7 @@ To address this, the solution was **percent-encoding**, or **URL encoding**, whi
 
 URL encoding ensures that any character—whether it's [unsafe](https://www.ietf.org/rfc/rfc1738.txt#:~:text=Other%20characters%20are%20unsafe%20because,be%20encoded%20within%20a%20URL.), [reserved](https://www.ibm.com/docs/en/cics-ts/6.x?topic=concepts-reserved-excluded-characters), or [non-ASCII](https://rbutterworth.nfshost.com/Tables/compose/)—can be safely transmitted in a URL. Here's how it works:
 
-1. **Identity Characters to Encode:**
+1. **Identify Characters to Encode:**
     - **Reserved Characters:** Characters with special meanings in URLs (e.g., `?` to start a query string, `&` to separate parameters, `/` to separate path components, etc.) must be encoded when used outside their context.
     - **Unsafe Characters:** Characters like `spaces`, `<`, `>`, `{`, `}`, etc., are unsafe because gateways and transport agents might modify them. Encoding prevents such misinterpretation.
     - **Non-ASCII Characters:** These characters, which fall outside the ASCII set, must be encoded for compatibility across systems.
