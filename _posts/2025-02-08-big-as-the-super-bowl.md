@@ -192,8 +192,8 @@ Before each game, teams develop a game plan to exploit the opponent's weaknesses
 
 Offensive formations dictate the alignment of players on the field. Common formations include:
 
-- [**I-Formation:**](https://www.football-tutorials.com/i-formation-offense-101/) Features a fullback and a halfback lined up directly behind the quarterback, ideal for power running plays.
-- [**Shotgun Formation:**](https://americanfootball.fandom.com/wiki/Shotgun_Formation) Positions the quarterback several yards behind the center, providing a better vantage point for passing plays.
+- [**I-Formation:**](https://www.football-tutorials.com/i-formation-offense-101/) Features a fullback and a halfback lined up directly behind the quarterback, ideal for powering running plays.
+- [**Shotgun Formation:**](https://americanfootball.fandom.com/wiki/Shotgun_Formation) This formation positions the quarterback several yards behind the center, providing a better vantage point for passing plays.
 - [**Singleback Formation:**](https://www.xsosfootball.com/singleback-formation-sets/) Utilizes a lone running back, allowing for a balanced attack with multiple receiving options.
 
 [Personnel packages](https://www.viqtorysports.com/what-does-21-11-personnel-mean-in-football/) refer to the combination of running backs, tight ends, and wide receivers on the field. For example, a "21" personnel package includes two running backs and one tight end. Varying these packages keeps the defense guessing and can create mismatches.
@@ -234,7 +234,7 @@ Defenses aim to create turnovers through interceptions and forced fumbles. Strat
 
 ### Special Teams Strategies
 
-**1. Kickoff and Punt Coverage:** The objective is to limit the return yardage by the opposing team. This involves strategic placement of kicks and disciplined coverage lanes to corral the [returner.](https://operations.nfl.com/learn-the-game/nfl-basics/terms-glossary/glossary-terms-list/puntkick-returner/)
+**1. Kickoff and Punt Coverage:** The objective is to limit the opposing team's return yardage. This involves strategic kick placement and disciplined coverage lanes to corral the [returner.](https://operations.nfl.com/learn-the-game/nfl-basics/terms-glossary/glossary-terms-list/puntkick-returner/)
 
 **2. Return Strategies:** Return teams design blocking schemes to create lanes for the returner, aiming to gain an advantageous field position or score. Decisions on whether to attempt a return or signal for a fair catch are based on factors like hang time and coverage speed. Keep in mind, however, that the NFL regularly changes the rules of the game to keep things fresh and interesting. Hence, this information might be outdated, especially given the [recent change to the kickoff rules.](https://www.youtube.com/watch?v=umTd77tHAgI)
 
