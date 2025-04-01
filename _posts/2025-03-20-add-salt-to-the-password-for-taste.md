@@ -98,7 +98,7 @@ And here’s how we safely store both the salt and the resulting hash:
 | User3     | D3@u1Z | $2y$10$IeXB26bNQjj96CPML5s50OM6RyZxhT2/p7mY.V7gaT8kEe34GTU7O |
 | User4     | Mn*7cV | $2y$10$EE2Ga1X.qaUsnyzZCvO79.raQwn1IcThHq3VMk52AB0/a2NJedeFm |
 
-By storing the salt alongside the hash, systems can reliably re-hash a password during login for comparison without compromising security. The salt itself doesn’t need to be secret. Tt just needs to be unique and unpredictable.
+By storing the salt alongside the hash, systems can reliably re-hash a password during login for comparison without compromising security. The salt itself doesn’t need to be secret. It just needs to be unique and unpredictable.
 
 It’s important to emphasize, however, that [salting](https://auth0.com/blog/adding-salt-to-hashing-a-better-way-to-store-passwords/) doesn’t make passwords stronger. It only makes attacks harder — and that distinction matters.
 
