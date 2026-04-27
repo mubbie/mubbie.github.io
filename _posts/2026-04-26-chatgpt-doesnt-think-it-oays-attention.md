@@ -1,4 +1,4 @@
-# ChatGPT Doesn't Think. It Pays Attention. (Lemme Explain.)
+# ChatGPT Doesn't Think. It Pays Attention.
 
 ###### A plain-English tour of Transformers, GPT, and LLMs (with just enough math)
 
