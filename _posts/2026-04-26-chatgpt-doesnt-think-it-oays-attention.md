@@ -762,7 +762,7 @@ One way to think about this is that the model is doing its "reasoning" in the fo
 </p>
 
 <p align="center">
-  <em> Image Source: <a href="https://cameronrwolfe.substack.com/">Deep (Learning) Focus</a> </em>
+  <em> Image Source: <a href="https://www.csail.mit.edu/news/reasoning-skills-large-language-models-are-often-overestimated">MIT CSAIL</a> </em>
 </p>
 
 
