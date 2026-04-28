@@ -241,7 +241,7 @@ For instance, we can think about what happens when someone asks a coding agent t
 
 Each step will have a separate tool call. The LLM could call `list_files` to get a list of filenames. After that, it calls `read_file` on each of them, reads the contents, finds and extracts the TODOs, and then synthesizes everything into a response. Each tool result becomes the context for the next decision. 
 
-Another approach could be for the LLM to call a `grep` tool to search for lines containing the text "TODO", "todo", "to do", etc. And then it could call a `read_lines` tool to read the lines around the todoetails about each todo, pattern, find d and synthesize the output into a response.
+Another approach could be for the LLM to call a `grep` tool to search for lines containing the text "TODO", "todo", "to do", etc. And then it could call a `read_lines` tool to read the lines around the todo pattern, find details about each todo, and synthesize the output into a response.
 
 Or let's consider another task that we referenced earlier (a much harder one): "fix the failing test in `test_auth.py`." The steps could look like:
 
